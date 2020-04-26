@@ -1,3 +1,5 @@
+# Space X Launch Anticipation App
+
 ### Tasks
 
 - [x] Setup initial graphql schema
