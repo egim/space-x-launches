@@ -1,2 +1,4 @@
-# space-x-launches
-This application will anticipate all future launches + act as a historical repository of all previous launches.
+# Space-X Launch Stats
+
+- Nodemon as backend server
+- React as the front end
