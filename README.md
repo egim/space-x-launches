@@ -1,4 +1,5 @@
-# Space-X Launch Stats
+### Tasks
 
-- Nodemon as backend server
-- React as the front end
+- [x] Setup initial graphql schema
+- [x] Setup server
+- [ ] Setup initial frontend index list
